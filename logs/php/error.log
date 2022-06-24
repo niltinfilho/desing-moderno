@@ -1,0 +1,28 @@
+[24-Jun-2022 02:06:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Scheme_Color' not found in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php:108
+Stack trace:
+#0 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): ElementorMenus\Modules\Branding\Widgets\Elementor_Branding->_register_controls()
+#1 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(336): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manag in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php on line 108
+[24-Jun-2022 02:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Scheme_Color' not found in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php:108
+Stack trace:
+#0 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): ElementorMenus\Modules\Branding\Widgets\Elementor_Branding->_register_controls()
+#1 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(336): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manag in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php on line 108
+[24-Jun-2022 02:09:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Scheme_Color' not found in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php:108
+Stack trace:
+#0 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): ElementorMenus\Modules\Branding\Widgets\Elementor_Branding->_register_controls()
+#1 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(336): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manag in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php on line 108
+[24-Jun-2022 02:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Scheme_Color' not found in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php:108
+Stack trace:
+#0 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(2280): ElementorMenus\Modules\Branding\Widgets\Elementor_Branding->_register_controls()
+#1 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\controls-stack.php(494): Elementor\Controls_Stack->init_controls()
+#2 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\base\widget-base.php(177): Elementor\Controls_Stack->get_stack()
+#3 C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\elementor\includes\managers\widgets.php(336): Elementor\Widget_Base->get_stack(false)
+#4 [internal function]: Elementor\Widgets_Manag in C:\Users\nilto\Documents\estudos\udemy\desing-moderno\app\public\wp-content\plugins\navmenu-addon-for-elementor\modules\branding\widgets\elementor-branding.php on line 108
